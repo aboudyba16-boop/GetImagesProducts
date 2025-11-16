@@ -1,0 +1,5 @@
+{
+  "name": "CSV Product Image Finder",
+  "description": "Upload a CSV of products, map the product name column, and this app will use AI to generate three potential product images for each item. You can then select your preferred image for each product and download them all.",
+  "requestFramePermissions": []
+}
